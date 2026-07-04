@@ -67,7 +67,7 @@ Grok 的价值在实时信息和 X 生态内容上，但国内用户开通 Grok 
 
 ### 1. 购买 Grok Super 卡密
 
-进入 GoPlus 充值入口，选择 Grok / SuperGrok 相关套餐，按页面提示付款并保存卡密。
+进入 [GoPlus](https://www.goplus.pro/) 充值入口，选择 Grok / SuperGrok 相关套餐，按页面提示付款并保存卡密。
 
 **充值入口：** [https://www.goplus.pro/](https://www.goplus.pro/)
 
@@ -139,7 +139,7 @@ Grok Super 更适合高频关注实时信息的人。做内容的人可以用它
 
 ### SuperGrok 支持微信支付吗？
 
-可以通过 GoPlus 入口购买相关充值卡密，再按页面提示完成账号 ID 和确认充值流程。
+可以通过 [GoPlus](https://www.goplus.pro/) 入口购买相关充值卡密，再按页面提示完成账号 ID 和确认充值流程。
 
 ### 充值需要账号密码吗？
 
