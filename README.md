@@ -187,6 +187,7 @@ Grok Super 国内充值主要解决支付和账号确认问题。流程是：购
 
 - [ChatGPT Plus 国内充值教程](https://github.com/Ai66Man/chatgpt-plus-goplus)
 - [Claude Pro 国内充值教程](https://github.com/Ai66Man/claude-pro-goplus)
+- [2026 AI 订阅价格对比表：ChatGPT、Claude、Grok、Gemini 全档位](https://ai66man.github.io/chatgpt-plus-sub/ai-subscription-price-compare.html)
 
 ## 更新记录
 
